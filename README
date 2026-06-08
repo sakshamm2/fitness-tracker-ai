@@ -1,0 +1,18 @@
+# Fitness Tracker
+
+A modern fitness tracking dashboard built with React, Tailwind CSS, Framer Motion, and Lucide Icons.
+
+## Features
+- Dashboard
+- Goal Tracking
+- Progress Analytics
+- Profile Management
+- Dark/Light Theme
+- Interactive Animations
+
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React

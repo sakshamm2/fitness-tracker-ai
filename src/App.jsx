@@ -1,7 +1,5 @@
 import FitnessTrackerWebsite from "./FitnessTrackerWebsite";
 
-function App() {
+export default function App() {
   return <FitnessTrackerWebsite />;
 }
-
-export default App;
