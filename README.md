@@ -1,16 +1,126 @@
-# React + Vite
+# 🏋️ Fitness Tracker AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive fitness tracking dashboard built using React, Vite, Tailwind CSS, Framer Motion, and Recharts.
 
-Currently, two official plugins are available:
+Track daily fitness goals, monitor health metrics, visualize workout progress, and manage your fitness journey through a clean and responsive user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📊 Interactive Fitness Dashboard
+- 🎯 Goal Tracking System
+- 📈 Progress Analytics
+- 👤 User Profile Section
+- 🌙 Dark / Light Theme Toggle
+- ⚡ Smooth Animations with Framer Motion
+- 📱 Fully Responsive Design
+- 🔥 Modern Glassmorphism UI
+- 💪 Workout & Health Metrics Monitoring
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+Add screenshots of your application here.
+
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### Goals Section
+![Goals Screenshot](screenshots/goals.png)
+
+### Profile Section
+![Profile Screenshot](screenshots/profile.png)
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| React | Frontend Development |
+| Vite | Fast Build Tool |
+| Tailwind CSS | Styling |
+| Framer Motion | Animations |
+| Recharts | Data Visualization |
+| Lucide React | Modern Icons |
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sakshamm2/fitness-tracker-ai.git
+```
+
+Navigate to project folder:
+
+```bash
+cd fitness-tracker-ai
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+fitness-tracker-ai/
+│
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── FitnessTrackerWebsite.jsx
+│   ├── main.jsx
+│   └── assets/
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🎯 Future Improvements
+
+- User Authentication
+- Workout Planner
+- AI Fitness Recommendations
+- BMI Calculator
+- Calorie Prediction System
+- Database Integration
+- Cloud Deployment
+
+---
+
+## 👨‍💻 Author
+
+**Saksham Yadav**
+
+GitHub: https://github.com/sakshamm2
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
