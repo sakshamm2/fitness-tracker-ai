@@ -120,6 +120,9 @@ fitness-tracker-ai/
 GitHub: https://github.com/sakshamm2
 
 ---
+🚀 Live Demo
+
+https://fitness-tracker-ai-six.vercel.app
 
 ## 📄 License
 
