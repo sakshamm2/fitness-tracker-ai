@@ -1,88 +1,95 @@
-# 🏋️ Fitness Tracker AI
+# Fitness Tracker AI
 
-A modern and interactive fitness tracking dashboard built using React, Vite, Tailwind CSS, Framer Motion, and Recharts.
+A fitness tracking dashboard built using **React, Vite, Tailwind CSS, Framer Motion, and Recharts**.
 
-Track daily fitness goals, monitor health metrics, visualize workout progress, and manage your fitness journey through a clean and responsive user interface.
+The application allows users to track daily fitness goals, monitor health metrics, visualize workout progress, and manage their fitness journey through a responsive interface.
 
----
+## Live Demo
 
-## ✨ Features
+[Open the live application](https://fitness-tracker-ai-six.vercel.app)
 
-- 📊 Interactive Fitness Dashboard
-- 🎯 Goal Tracking System
-- 📈 Progress Analytics
-- 👤 User Profile Section
-- 🌙 Dark / Light Theme Toggle
-- ⚡ Smooth Animations with Framer Motion
-- 📱 Fully Responsive Design
-- 🔥 Modern Glassmorphism UI
-- 💪 Workout & Health Metrics Monitoring
+## Features
 
----
+* Interactive Fitness Dashboard
+* Goal Tracking System
+* Progress Analytics
+* User Profile Section
+* Dark / Light Theme Toggle
+* Smooth Animations with Framer Motion
+* Fully Responsive Design
+* Glassmorphism-based UI
+* Workout and Health Metrics Monitoring
 
-## 📸 Preview
-
-Add screenshots of your application here.
+## Preview
 
 ### Dashboard
+
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### Goals Section
+
 ![Goals Screenshot](screenshots/goals.png)
 
 ### Profile Section
+
 ![Profile Screenshot](screenshots/profile.png)
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+| Technology    | Purpose              |
+| ------------- | -------------------- |
+| React         | Frontend Development |
+| Vite          | Build Tool           |
+| Tailwind CSS  | Styling              |
+| Framer Motion | Animations           |
+| Recharts      | Data Visualization   |
+| Lucide React  | Icons                |
 
-| Technology | Purpose |
-|------------|----------|
-| React | Frontend Development |
-| Vite | Fast Build Tool |
-| Tailwind CSS | Styling |
-| Framer Motion | Animations |
-| Recharts | Data Visualization |
-| Lucide React | Modern Icons |
+## How to Run
 
----
+### Prerequisites
 
-## 🚀 Installation
+Make sure you have the following installed:
 
-Clone the repository:
+* Node.js
+* npm
+* Git
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/sakshamm2/fitness-tracker-ai.git
 ```
 
-Navigate to project folder:
+### 2. Navigate to the Project
 
 ```bash
 cd fitness-tracker-ai
 ```
 
-Install dependencies:
+### 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-Run development server:
+### 4. Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-Build for production:
+After the development server starts, open the local URL shown in the terminal.
+
+### 5. Build for Production
+
+To create a production build:
 
 ```bash
 npm run build
 ```
 
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```text
 fitness-tracker-ai/
@@ -99,31 +106,22 @@ fitness-tracker-ai/
 └── README.md
 ```
 
----
+## Future Improvements
 
-## 🎯 Future Improvements
+* User Authentication
+* Workout Planner
+* AI Fitness Recommendations
+* BMI Calculator
+* Calorie Prediction System
+* Database Integration
+* Cloud Deployment
 
-- User Authentication
-- Workout Planner
-- AI Fitness Recommendations
-- BMI Calculator
-- Calorie Prediction System
-- Database Integration
-- Cloud Deployment
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Saksham Yadav**
 
 GitHub: https://github.com/sakshamm2
 
----
-🚀 Live Demo
-
-https://fitness-tracker-ai-six.vercel.app
-
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
